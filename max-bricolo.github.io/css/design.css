@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+#steuerung {
+
+    background-color: #dddddd;
+    width: 12em;
+    float: left;
+
+    margin-left:  10px;
+    margin-right: 50px;
+    margin-bottom: 1000px;
+
+
+}
+#steuerung{
+	color: blue ;
+
+}
+#steuerung a {
+    text-decoration: none;
+    border: 1px solid black;
+    display: block;
+}
+
+#steuerung ul {
+    border-bottom: 1px solid black;
+}
+
+
+#steuerung strong,
+#steuerung a {
+    text-decoration: none;
+    border-top: 1px solid black;
+    display: block;
+    padding: 6px 10px 6px 20px;
+}
+#steuerung strong {
+    background-color: yellow;
+}
+
+
+#steuerung a:hover {
+    background-color: red;
+}
+
+body { color: white
+ }
+
+body { background-color: #808080;
+  }
